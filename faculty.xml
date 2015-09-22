@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faculty>	
+	<faculty-member> 
+		<title> associate professor </title>
+		<name> Kathryn Raign </name>
+		<office_number> (940)565-4665 </office_number>
+		<office_phone> LANG 409 L </office_phone>
+	</faculty-member>
+
+	<faculty-member>	
+		<title> lecturer </title>
+		<name>	Lisa Jackson </name>
+		<office_number> Sage Hall 152 </office_number>
+		<office_phone> (940)565-4458  </office_phone>
+	</faculty-member>
+</faculty>
