@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tecm_catalog> 
+	<program> 
+		<title>Teaching Technical Writing certificate</title>
+		<program_description>This graduate academic certificate caters to non-majors. Teaching technical writing requires an acute attention to the stylistic and rhetorical standards and practices that govern workplace writing—these practices often run counter to traditional humanities-based writing training. Understandably, these emphases are not part of the curricula in rhetoric/composition, literature, creative writing, and cultural studies programs. The certificate in teaching technical writing equips students with the skills needed to teach a variety of foundational courses in technical communication, including introduction to technical writing, technical editing, technical style, document and web design, and professional report and proposal writing.</program_description>
+	</program> 
+	<requirements> 
+		<requirements_description>The admission requirements for a graduate-level certificate differ from a MA degree. GRE scores, letters of reference, a personal statement, and a resume are not required to apply for this certificate program.</requirements_description> 
+		<requirement>U.S. citizens/permanent residents submit application, application fee, and official transcripts to the Toulouse Graduate School</requirement>
+		<requirement>International applicants submit above materials to the International Admission Office. Acceptable TOEFL scores must be submitted. Applicants with an undergraduate degree from a U.S. college/university or having successfully completed an intensive English program may be exempted from the TOEFL.</requirement>
+		<requirement>The Toulouse Graduate School and the Department of Linguistics and Technical Communication Graduate Studies Director will notify students of their admission status. </requirement>
+		<requirement>Students who wish to enter the MA program in professional and technical communication will be required to take the GRE and meet College of Arts and Sciences entrance requirements before proceeding with courses beyond those needed for the certificate program.</requirement> 
+	</requirements>
+	<courses>
+		<course>TECM 5190 - Style and Technical Writing </course>
+		<course>TECM 5195 - Editing Technical Documents </course> 
+		<course>TECM 5550 - Studies in the Teaching of Technical Communication </course>
+		<course>TECM 5170 - Grants and Proposals </course> 
+		<course>TECM 5191 - Digital Literacies for Professional Communicators </course>
+		<course>TECM 5280 - Designing Technical Documents </course> 
+	</courses> 
+	<disclosures> 
+		<title>Gainful Employment Disclosures for Graduate Academic Certificates</title>
+	</disclosures> 
+</tecm_catalog>
