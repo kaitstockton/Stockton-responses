@@ -1,0 +1,9 @@
+Progress on Project 2 
+
+I currently have 34 entries for my table. I have to completed most of the table, but still need to add more information for some entries and plan to add a few more video games to the table. I have written the XML, XSLT, and CSS for my project. I have to change some of my XML and XSLT to add lists to my table. I want to continue to work on my CSS to make the table look better. My XML, XSLT, and CSS are all speaking to each other and work together when I run the information in browsers. 
+
+For the rest of the project, I plan to add more entries, fill in current entries, add lists, and add more styles. I hope to try working with Java to see if I can add a search bar and a sorting feature. If I have the time, I hope to try working with more HTML to create navigation bars, links, and more to make it look like a webpage. I am not sure if I will get to this part though. 
+
+How would we complete the html part of the extra credit? 
+Is javascript like CSS where it has its own stylesheet, or is it inserted into one of the other files? 
+If I want to add things like more html and make a webpage for my table, how would all the different files work together? 
