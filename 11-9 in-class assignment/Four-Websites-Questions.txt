@@ -1,0 +1,59 @@
+Website
+https://support.apple.com/en-us/HT202639
+
+
+1.	What kind of content is being presented? (conceptual, task based, reference material) 
+	The document is task based. It provides readers with steps on how to different types of Wi-Fi networks. 
+2.	What specific user question is being answered? 
+	The article is answering the questions of "How do I connect to different types of Wi-Fi networks on my iPhone, iPad, or iPod?"
+3.	Is there enough context for this to be a topic-based article?  
+	The author provides context, but I feel like more context would make the document more of a topic-based article. 
+4.	Is the scope limited enough? 
+	The scope is limited. 
+5.	If the article does not adhere to topic-based characteristics, how would you break the article apart so it does adhere to the principles?
+ 	I would add more context to the beginning of the article or add context to each different section. People may need secure and hidden networks defined for them. 
+
+Website
+https://support.apple.com/en-us/HT202639
+
+
+1.	What kind of content is being presented? (conceptual, task based, reference material) 
+	The document covers a concept. It describes mailbox size and message sending limits in iCloud. 
+2.	What specific user question is being answered? 
+	The article is answering the questions of "How much space does my iCloud Mail mailbox have and are there any message sending limits?"
+3.	Is there enough context for this to be a topic-based article?  
+	The author provides more context than the first website; however, I would need iCloud explained because I have no idea what it is (being a PC person).
+4.	Is the scope limited enough? 
+	The scope is limited. I feel like it is answering two different questions though -- even though I can see how the two would relate. 
+5.	If the article does not adhere to topic-based characteristics, how would you break the article apart so it does adhere to the principles?
+ 	I would add more context to the beginning of the article or add context to each different section. 
+
+Website
+http://windows.microsoft.com/en-us/windows-10/getstarted-whatsnew
+
+
+1.	What kind of content is being presented? (conceptual, task based, reference material) 
+	The document covers a concept. It describes what is new in Windows 10. However, it does mention one task even though it is not in a numbered or ordered list.  
+2.	What specific user question is being answered? 
+	The article is answering the questions of "What is new in Windows 10?"
+3.	Is there enough context for this to be a topic-based article?  
+	The author provides context. The article is broad, so it does not seem like there need to be more context than "see what is new in Windows 10." I also Windows 10, so my past knowledge may keep me from seeing if there needs to be more context. Each section offers context though. 
+4.	Is the scope limited enough? 
+	The scope is limited. 
+5.	If the article does not adhere to topic-based characteristics, how would you break the article apart so it does adhere to the principles?
+ 	I think the article meets the characteristics of a topic-based article. It is also self-contained and links to further information if people need more information. 
+
+Website
+http://www.microsoft.com/surface/en-us/support/email-and-communication/mail
+
+
+1.	What kind of content is being presented? (conceptual, task based, reference material) 
+	The document is task based. It offers instructions for different steps. 
+2.	What specific user question is being answered? 
+	The article is answering the questions of "How to set up or use email on Surface on the mail app or in Outlook"
+3.	Is there enough context for this to be a topic-based article?  
+	The article offers context and links to information for it to be self-contained, but I think it is just poorly designed. The poor design makes it look like it does not offer enough context. I have trouble following the document. I may also need Surface explained to me. 
+4.	Is the scope limited enough? 
+	I think Outlook and the mail app may need to be separated. There is just a lot of information, and it keeps switching back and forth between these two. 
+5.	If the article does not adhere to topic-based characteristics, how would you break the article apart so it does adhere to the principles?
+ 	I think the article may need to be separated by Outlook and the mail app. It may be confusing to the readers if they have to keep jumping back and forth. 
